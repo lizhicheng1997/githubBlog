@@ -812,3 +812,6 @@ images: images
 
 # Theme version
 version: 5.1.4
+
+# 来必力 跟帖功能
+gentie_productKey: #your-gentie-product-key
