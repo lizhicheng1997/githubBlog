@@ -128,21 +128,23 @@ scheme: Muse
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
   GitHub: https://github.com/lizhicheng1997 || github
-  E-Mail: mailto:yourname@gmail.com || envelope
-  Google: https://plus.google.com/yourname || google
-  Twitter: https://twitter.com/yourname || twitter
-  FB Page: https://www.facebook.com/yourname || facebook
-  VK Group: https://vk.com/yourname || vk
-  StackOverflow: https://stackoverflow.com/yourname || stack-overflow
-  YouTube: https://youtube.com/yourname || youtube
-  Instagram: https://instagram.com/yourname || instagram
-  Skype: skype:yourname?call|chat || skype
+  E-Mail: mailto:1004714019@qq.com || envelope
+  简书: https://www.jianshu.com/u/bea7dba69757
+#  Google: https://plus.google.com/yourname || google
+#  Twitter: https://twitter.com/yourname || twitter
+#  FB Page: https://www.facebook.com/yourname || facebook
+#  VK Group: https://vk.com/yourname || vk
+#  StackOverflow: https://stackoverflow.com/yourname || stack-overflow
+#  YouTube: https://youtube.com/yourname || youtube
+#  Instagram: https://instagram.com/yourname || instagram
+#  Skype: skype:yourname?call|chat || skype
 
 social_icons:
   enable: true
   icons_only: false
   transition: false
   GitHub: github
+  简书: heartbeat
 
 # Blog rolls
 links_icon: link
@@ -396,7 +398,7 @@ valine:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: your uid
+livere_uid: MTAyMC80MTIwOC8xNzc1Ng==
 
 # Gitment
 # Introduction: https://imsun.net/posts/gitment-introduction/
@@ -812,6 +814,3 @@ images: images
 
 # Theme version
 version: 5.1.4
-
-# 来必力 跟帖功能
-gentie_productKey: #your-gentie-product-key
