@@ -95,12 +95,12 @@ live2d:
     vHeadPos: 0.618
     use: live2d-widget-model-wanko
   display:
-    superSample: 2
+#    superSample: 2
     width: 150
     height: 300
     position: right
     hOffset: 0
-    vOffset: -20
+    vOffset: -150
   mobile:
     show: true
     scale: 0.5
