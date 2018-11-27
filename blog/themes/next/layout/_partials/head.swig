@@ -11,9 +11,6 @@
 <script>
     (function(){
         if('{{ page.password }}'){
-            if (!prompt('请输入文章密码')) {
-                alert('输入密码方可继续访问!')
-            }
             if (prompt('请输入文章密码') !== '{{ page.password }}') {
                 alert('密码错误!');
                 history.back();
