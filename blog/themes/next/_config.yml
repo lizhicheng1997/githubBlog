@@ -817,3 +817,6 @@ version: 5.1.4
 # Online contact
 daovoice: true
 daovoice_app_id: bbe3e36b
+
+# Fireworks 点击爆炸效果
+fireworks: true
