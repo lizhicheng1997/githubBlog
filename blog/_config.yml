@@ -107,3 +107,10 @@ live2d:
   react:
     opacityDefault: 0.7
     opacityOnHover: 0.2
+
+algolia:
+  applicationID: '03YZFGG9EE'
+  apiKey: '261c937226c07f6aaac467f3d29fd269'
+  adminApiKey: 'c585446d78ddade6e5e090337e8f9848'
+  indexName: 'blog'
+  chunkSize: 5000
