@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Welcome to lzc's blog
+title: LZC's Blog
 subtitle:
 description: 有志者，事竟成!
-keywords: 李志成
+keywords: PHP
 author: LZC
 language: zh-Hans
 timezone:
@@ -15,8 +15,8 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://lizhicheng1997.github.io/
 root: /
-permalink: :year/:month/:day/:title/
-permalink_defaults:
+permalink: year/:month/:day/:title/
+permalink_defaults: Hexo, NexT
 
 # Directory
 source_dir: source
