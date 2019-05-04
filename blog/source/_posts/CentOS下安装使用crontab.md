@@ -41,6 +41,8 @@ vi /etc/crontab         // 添加相应的任务
 crontab -l              // 查看当前定时任务
 ```
 
+<!--more-->
+
 ![这是测试图片](CentOS下安装使用crontab/test.jpg)
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
